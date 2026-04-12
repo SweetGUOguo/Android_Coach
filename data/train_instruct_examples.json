@@ -1,0 +1,171 @@
+[
+  {
+    "task_id": "clock_1",
+    "task": "Reset my alarm for 11 AM.",
+    "metric_type": "",
+    "metric_func": "evaluation.tasks.clock",
+    "APP": "clock",
+    "package": "clock"
+  },
+  {
+    "task_id": "clock_2",
+    "task": "Start a new timer for 6 minutes.",
+    "metric_type": "",
+    "metric_func": "evaluation.tasks.clock",
+    "APP": "clock",
+    "package": "clock"
+  },
+  {
+    "task_id": "clock_3",
+    "task": "Modify my alarm sound to \"Fireflies\".",
+    "metric_type": "",
+    "metric_func": "evaluation.tasks.clock",
+    "APP": "clock",
+    "package": "clock"
+  },
+  {
+    "task_id": "map.me_1",
+    "task": "Display the route to the nearest hospital.",
+    "metric_type": "",
+    "metric_func": "evaluation.tasks.map.me",
+    "APP": "map.me",
+    "package": "map.me"
+  },
+  {
+    "task_id": "map.me_2",
+    "task": "Find Sam's and start a biking navigation to there in map.",
+    "metric_type": "",
+    "metric_func": "evaluation.tasks.map.me",
+    "APP": "map.me",
+    "package": "map.me"
+  },
+  {
+    "task_id": "map.me_3",
+    "task": "Use map to find the nearest bank and show driving directions.",
+    "metric_type": "",
+    "metric_func": "evaluation.tasks.map.me",
+    "APP": "map.me",
+    "package": "map.me"
+  },
+  {
+    "task_id": "map.me_4",
+    "task": "Search for a popular tourist attraction in your city on map app.",
+    "metric_type": "",
+    "metric_func": "evaluation.tasks.map.me",
+    "APP": "map.me",
+    "package": "map.me"
+  },
+  {
+    "task_id": "contacts_1",
+    "task": "Search for a contact by name \"a3\".",
+    "metric_type": "",
+    "metric_func": "evaluation.tasks.contacts",
+    "APP": "contacts",
+    "package": "contacts"
+  },
+  {
+    "task_id": "contacts_2",
+    "task": "Share a contact's details.",
+    "metric_type": "",
+    "metric_func": "evaluation.tasks.contacts",
+    "APP": "contacts",
+    "package": "contacts"
+  },
+  {
+    "task_id": "contacts_3",
+    "task": "Sort contacts by last name.",
+    "metric_type": "",
+    "metric_func": "evaluation.tasks.contacts",
+    "APP": "contacts",
+    "package": "contacts"
+  },
+  {
+    "task_id": "calendar_4",
+    "task": "Set a repeating event for my weekly yoga class.",
+    "metric_type": "",
+    "metric_func": "evaluation.tasks.calendar",
+    "APP": "calendar",
+    "package": "calendar"
+  },
+  {
+    "task_id": "settings_1",
+    "task": "Turn off Bluetooth.",
+    "metric_type": "",
+    "metric_func": "evaluation.tasks.settings",
+    "APP": "settings",
+    "package": "settings"
+  },
+  {
+    "task_id": "settings_2",
+    "task": "How to enable USB debugging on my Android device?",
+    "metric_type": "",
+    "metric_func": "evaluation.tasks.settings",
+    "APP": "settings",
+    "package": "settings"
+  },
+  {
+    "task_id": "cantook_1",
+    "task": "Mark all books of William Shakespeare as read.",
+    "metric_type": "",
+    "metric_func": "evaluation.tasks.cantook",
+    "APP": "cantook",
+    "package": "cantook"
+  },
+  {
+    "task_id": "cantook_2",
+    "task": "Add the latest imported book to the \"Favorites\" collection.",
+    "metric_type": "",
+    "metric_func": "evaluation.tasks.cantook",
+    "APP": "cantook",
+    "package": "cantook"
+  },
+  {
+    "task_id": "cantook_3",
+    "task": "Create a new collection named \"Mystery Novels\".",
+    "metric_type": "",
+    "metric_func": "evaluation.tasks.cantook",
+    "APP": "cantook",
+    "package": "cantook"
+  },
+  {
+    "task_id": "bluecoins_1",
+    "task": "Compare last month's Movies expenses with this month's to see the difference in Bluecoins.",
+    "metric_type": "",
+    "metric_func": "evaluation.tasks.bluecoins",
+    "APP": "bluecoins",
+    "package": "bluecoins"
+  },
+  {
+    "task_id": "bluecoins_2",
+    "task": "Use Bluecoins to set a cap of 500 RMB for your weekly utility budget.",
+    "metric_type": "",
+    "metric_func": "evaluation.tasks.bluecoins",
+    "APP": "bluecoins",
+    "package": "bluecoins"
+  },
+
+  {
+    "task_id": "bluecoins_3",
+    "task": "Add a new category to the budget summary with the type of income, the name “part-time work” and the grouping “other”.",
+    "metric_type": "",
+    "metric_func": "evaluation.tasks.bluecoins",
+    "APP": "bluecoins",
+    "package": "bluecoins"
+  },
+  {
+    "task_id": "bluecoins_4",
+    "task": "Schedule a recurring weekly payment plan for your RMB 500 rent with Bluecoins and enter it as a transaction record on the due date.",
+    "metric_type": "",
+    "metric_func": "evaluation.tasks.bluecoins",
+    "APP": "bluecoins",
+    "package": "bluecoins"
+  },
+  {
+    "task_id": "bluecoins_5",
+    "task": "In the budget summary, add a new category “school” with the category Expenditures, Family Grouping.",
+    "metric_type": "",
+    "metric_func": "evaluation.tasks.bluecoins",
+    "APP": "bluecoins",
+    "package": "bluecoins"
+  }
+]
